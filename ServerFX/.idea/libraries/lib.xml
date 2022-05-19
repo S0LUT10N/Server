@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../externalLibraries/javafx-sdk-17.0.0.1/lib" />
+      <root url="jar://$PROJECT_DIR$/../externalLibraries/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externalLibraries/jackson-annotations-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externalLibraries/jackson-core-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externalLibraries/jackson-databind-2.13.0-rc1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../externalLibraries/javafx-sdk-17.0.0.1/lib" recursive="false" />
+  </library>
+</component>
